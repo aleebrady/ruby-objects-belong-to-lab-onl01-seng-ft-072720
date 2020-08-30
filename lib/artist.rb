@@ -5,7 +5,7 @@ class Artist
   
   def initialize
     @name = name
-    
+    binding.pry
   end
   
 end
